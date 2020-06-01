@@ -1,0 +1,8 @@
+{
+  "name": "IMaps",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
